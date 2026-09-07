@@ -1,0 +1,6 @@
+{
+  "name": "Odonto Espinel",
+  "description": "Diseño de sonrisa, ortodoncia, botox, implantología y odontopediatría en Quito. Agenda tu valoración con especialistas de Odonto Espinel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
